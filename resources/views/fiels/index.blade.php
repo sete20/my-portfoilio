@@ -157,7 +157,7 @@
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="profile-wrapper wow fadeInRight" data-wow-delay="0.3s">
               <h3>Hi Guys!</h3>
-              <I'AM <strong>Abdelrhman</strong> High School Student Caring ABout Web Development  &amp;  Software
+              I'AM  <strong>Abdelrhman</strong> High School Student Caring About Web Development  &amp;  Software
               <div class="about-profile">
                 <ul class="admin-profile">
                   <li><span class="pro-title"> Name </span> <span class="pro-detail">Abdelrhman Abdullah</span></li>
