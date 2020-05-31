@@ -42,7 +42,7 @@ class portfolioManger extends Controller
                 ), function($message) use ($request)
             {
                $message->from($request->email);
-               $message->to('xaxbxdxox.2015@gmail.com');
+               $message->to('Abdoghazy2016@gmail.com');
             });
            return back()->with('success', 'Thanks for contacting us!');
     }
